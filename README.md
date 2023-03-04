@@ -3,7 +3,11 @@
   Static Web page using Frontend Development tools like Html,CSS,Javascript.
 
 
-![Screenshot (9)](1.png)
+![1](1.png)
 
 
-![]
+![2](2.png)
+
+
+
+![3](3.png)
